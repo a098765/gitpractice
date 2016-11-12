@@ -1,3 +1,3 @@
 # Jonathan is learning how to use git
 
-- [ ]Knows how to git
+- [ ] Knows how to git
